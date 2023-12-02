@@ -1,12 +1,12 @@
-# Sales and Finance Report for AtliQ Hardware
+# :octocat:Sales and Finance Report for AtliQ Hardware
 ## Sales Report
 
 This report provides a summary of the company's sales performance, including customer and market performance in different years.
 -  **_Project Objective_**
   
-     **1.** Analyze the correlation between market performance and sales objectives.
+     **1.** Analyze the correlation between _[Market performance and Sales objectives](https://github.com/tyagi-mansi11/AtliQ_Reports_Excel/blob/58dd70ed91722c4b1e2baa3b29e2ad9de3e74fa5/Market%20performance%20vs%20Target.pdf)_
    
-     **2.** Generate a customer performance report
+     **2.** Generate a _[Customer performance report](https://github.com/tyagi-mansi11/AtliQ_Reports_Excel/blob/58dd70ed91722c4b1e2baa3b29e2ad9de3e74fa5/Customer%20Performance%20Report.pdf)_
    
  -   **_Significance of analyzing Sales data_**
 
@@ -17,9 +17,11 @@ This report provides a summary of the company's sales performance, including cus
 This report provides an overview of the company's financial performance, including Net sales, COGS(Cost of Goods Sold), Gross margin and Gross margin %.
 - **_Project Objective_** 
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year] and [Months]
+    **1.** Create Profit and Loss(P&L) report by _[Fiscal Year](https://github.com/tyagi-mansi11/AtliQ_Reports_Excel/blob/58dd70ed91722c4b1e2baa3b29e2ad9de3e74fa5/P%26L%20by%20Fiscal%20Years.pdf)_ and _[Months](https://github.com/tyagi-mansi11/AtliQ_Reports_Excel/blob/58dd70ed91722c4b1e2baa3b29e2ad9de3e74fa5/P%26L%20by%20Months.pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by [Markets]
+   **2.** Create Profit and Loss(P&L) report by _[Markets](https://github.com/tyagi-mansi11/AtliQ_Reports_Excel/blob/58dd70ed91722c4b1e2baa3b29e2ad9de3e74fa5/P%26L%20for%20Market.pdf)_
+
+   **3.** Create Groos Margin% report by _[Quaters](https://github.com/tyagi-mansi11/AtliQ_Reports_Excel/blob/58dd70ed91722c4b1e2baa3b29e2ad9de3e74fa5/Gross%20Margin%25%20by%20Quaters.pdf)_
 
 - **_Significance of analyzing Financial data_**
 
